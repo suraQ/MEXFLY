@@ -1,0 +1,20 @@
+canvas {
+  position: absolute;
+  left: 0;
+  background:#000;
+}
+#tweetButton{
+  position:absolute;
+  left:172px;
+  bottom:70px;
+  width:100px;
+  height:30px;
+  display:none;
+}
+#main{
+  width:445px;
+  height:445px;
+  position:relative;
+  left:0;
+  top:0;
+}
